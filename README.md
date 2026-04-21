@@ -168,4 +168,3 @@ Natural England (2010) Nature Nearby: Accessible Natural Greenspace Guidance. Sh
 
 Dennis, M., Armitage, R.P. and James, P. (2016) ‘Appraisal of social-ecological innovation as an adaptive response by stakeholders to local conditions: Mapping stakeholder involvement in horticulture orientated green space management’, Urban Forestry & Urban Greening, 18, pp. 86–94. Available at: https://doi.org/10.1016/j.ufug.2016.05.010.
 
-Drobne, S. and Lisec, A. (no date) ‘Multi-attribute Decision Analysis in GIS: Weighted Linear Combination and Ordered Weighted Averaging’.
