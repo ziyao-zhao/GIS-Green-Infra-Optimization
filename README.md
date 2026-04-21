@@ -11,13 +11,16 @@ On this basis, the study further designs two types of scenario plans with differ
 ## Key Results
 
 <h3>Comprehensive suitability map</h3>
-<img src="figure/Comprehensive_sutabillity_Map.png" alt="Comprehensive suitability map" width="800">
+<img src="figure/Comprehensive_sutability_Map.png" alt="Comprehensive suitability map" width="800">
 
 The comprehensive suitability map was generated through a weighted combination of six indicators. Higher suitability values were mainly concentrated in the peripheral areas of Greater Manchester, particularly in the southern, northeastern and northwestern parts of the region, while lower suitability values were more commonly observed in the urban core. This pattern suggests that areas with larger socio-environmental deficits and lower access to green space have stronger potential need for GI interventions.
 
 Based on the composite suitability surface, the top 10% of high-suitability areas were identified as priority zones for potential intervention. These areas showed clustered spatial distribution rather than random dispersion, especially in peripheral communities in the southern and eastern parts of Greater Manchester.
 
+
 Local Moran’s I analysis further showed high spatial consistency between the top-ranked suitability areas and high-high clustering zones, which partially validates the statistical robustness of the identified priority areas.
+
+
 
 ## Scenario-Based Outputs
 
@@ -39,16 +42,41 @@ The site selection of community gardens is based on the results of the comprehen
 
 The project uses Multi-Criteria Evaluation / Weighted Linear Combination (MCE/WLC) to integrate multiple indicators into a composite suitability surface for planning decision-support. The workflow also includes Local Moran’s I analysis to test whether the resulting suitability pattern shows meaningful spatial clustering rather than random distribution. 
 
+
+
 ### Key indicators
 
 A total of six factors were selected for weighting and used to calculate the overall suitability:
 
 - Population density
+
+<h3>Population density</h3>
+<img src="figure/pop_density.png" alt="Population density" width="700">
+  
 - Index of Multiple Deprivation (IMD)
+  
+<h3>IMD</h3>
+<img src="figure/IMD.png" alt="IMD" width="700">
+  
 - Normalised Difference Vegetation Index (NDVI)
+  
+<h3>NDVI</h3>
+<img src="figure/NDVI.png" alt="NDVI" width="700">
+  
 - Accessible Natural Greenspace Standard(ANGSt)-based green space accessibility deficit
+
+<h3>ANGSt</h3>
+<img src="figure/ANGSt.png" alt="ANGSt" width="700">
+
 - Distance to public green space
+  
+<h3>Distance to public green space</h3>
+<img src="figure/DIstance.png" alt="Distance to public green space" width="700">
+
 - Green space patch connectivity (effective mesh size, Meff)
+<h3>Meff</h3>
+<img src="figure/Meff.png" alt="Meff" width="700">
+
 
 ### Why these factors were used
 
